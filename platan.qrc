@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/platan" >
+        <file>icons/platan.svg</file>
+        <file>icons/platan_err_off.svg</file>
+        <file>icons/platan_ready_on.svg</file>
+        <file>icons/platan_err_on.svg</file>
+        <file>icons/platan_ready_off.svg</file>
+    </qresource>
+</RCC>
